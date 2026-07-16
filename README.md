@@ -72,12 +72,12 @@ Make sure you have Node.js (v18+) installed. You will also need API keys for:
 
 ## 📂 Project Structure
 
-- `/src/app` - Next.js App Router pages, layouts, and API routes.
-  - `/api` - Backend routes for Gemini and OpenWeather integrations.
-  - `/planner` - The core AI itinerary generator application.
-  - `/manual` - The dynamic India Travel Manual directory.
-- `/src/components` - Reusable React components.
-  - `/features` - Widgets like the Budget Calculator, Weather, and Chat.
+- `/src/app` - Next.js App Router pages, layouts, and API routes..
+  - `/api` - Backend routes for Gemini and OpenWeather integrations..
+  - `/planner` - The core AI itinerary generator application..
+  - `/manual` - The dynamic India Travel Manual directory..
+- `/src/components` - Reusable React components..
+  - `/features` - Widgets like the Budget Calculator, Weather, and Chat..
   - `/layout` - The tripartite layout panels (Sidebar, CenterPanel, RightPanel).
   - `/ui` - Shadcn UI foundational components.
 - `/src/store` - Zustand global state management.
